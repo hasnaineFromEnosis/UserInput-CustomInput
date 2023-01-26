@@ -5,5 +5,7 @@
         <file>KeyboardInput.qml</file>
         <file>TextFieldExample.qml</file>
         <file>MouseAreaExample.qml</file>
+        <file>FlickableCustom.qml</file>
+        <file>assets/bigImage.jpg</file>
     </qresource>
 </RCC>
