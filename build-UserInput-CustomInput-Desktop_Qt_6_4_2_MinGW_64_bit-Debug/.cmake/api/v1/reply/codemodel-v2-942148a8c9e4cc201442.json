@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-45f4d21aae8f9985eafe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "UserInput-CustomInput",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "UserInput-CustomInput::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UserInput-CustomInput-Debug-86b48756ee6175577b56.json",
+					"name" : "UserInput-CustomInput",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UserInput-CustomInput_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UserInput-CustomInput_autogen-Debug-bb952107d6b0f74a63a7.json",
+					"name" : "UserInput-CustomInput_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UserInput-CustomInput_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UserInput-CustomInput_autogen_timestamp_deps-Debug-67e1253bf1c3a53cb493.json",
+					"name" : "UserInput-CustomInput_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UserInput-CustomInput_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UserInput-CustomInput_qmlimportscan-Debug-fd2fc90e59b480f15f7a.json",
+					"name" : "UserInput-CustomInput_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/build-UserInput-CustomInput-Desktop_Qt_6_4_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/UserInput-CustomInput"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
