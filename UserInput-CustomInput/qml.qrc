@@ -7,5 +7,9 @@
         <file>MouseAreaExample.qml</file>
         <file>FlickableCustom.qml</file>
         <file>assets/bigImage.jpg</file>
+        <file>KeyboardFocusExample.qml</file>
+        <file>MyWidget.qml</file>
+        <file>MyClickableWidget.qml</file>
+        <file>ListViewFocusScope.qml</file>
     </qresource>
 </RCC>
