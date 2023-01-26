@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>TapHandlerExample.qml</file>
+        <file>KeyboardInput.qml</file>
     </qresource>
 </RCC>

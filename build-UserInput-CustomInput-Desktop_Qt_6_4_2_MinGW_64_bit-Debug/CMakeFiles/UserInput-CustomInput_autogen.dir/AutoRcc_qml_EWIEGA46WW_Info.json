@@ -8,7 +8,8 @@
 	"INPUTS" : 
 	[
 		"C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/UserInput-CustomInput/TapHandlerExample.qml",
-		"C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/UserInput-CustomInput/main.qml"
+		"C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/UserInput-CustomInput/main.qml",
+		"C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/UserInput-CustomInput/KeyboardInput.qml"
 	],
 	"LOCK_FILE" : "C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/build-UserInput-CustomInput-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/UserInput-CustomInput_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,
