@@ -4,5 +4,6 @@
         <file>TapHandlerExample.qml</file>
         <file>KeyboardInput.qml</file>
         <file>TextFieldExample.qml</file>
+        <file>MouseAreaExample.qml</file>
     </qresource>
 </RCC>
