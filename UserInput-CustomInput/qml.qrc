@@ -3,5 +3,6 @@
         <file>main.qml</file>
         <file>TapHandlerExample.qml</file>
         <file>KeyboardInput.qml</file>
+        <file>TextFieldExample.qml</file>
     </qresource>
 </RCC>
