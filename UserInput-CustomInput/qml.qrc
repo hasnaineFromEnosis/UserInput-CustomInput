@@ -11,5 +11,6 @@
         <file>MyWidget.qml</file>
         <file>MyClickableWidget.qml</file>
         <file>ListViewFocusScope.qml</file>
+        <file>QMLKey.qml</file>
     </qresource>
 </RCC>
