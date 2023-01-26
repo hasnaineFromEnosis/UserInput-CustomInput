@@ -1,0 +1,13 @@
+# ninja log v5
+1	97	6964199837291045	.qt_plugins/Qt6_QmlPlugins_Imports_UserInput-CustomInput.cmake	5733f0b06dd1f5d9
+1	97	6964199837291045	C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/build-UserInput-CustomInput-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_UserInput-CustomInput.cmake	5733f0b06dd1f5d9
+97	253	6964199838094974	UserInput-CustomInput_autogen/timestamp	8e03c98b5e08dd83
+97	253	6964199838094974	UserInput-CustomInput_autogen/mocs_compilation.cpp	8e03c98b5e08dd83
+97	253	6964199838094974	C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/build-UserInput-CustomInput-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/UserInput-CustomInput_autogen/timestamp	8e03c98b5e08dd83
+97	253	6964199838094974	C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/build-UserInput-CustomInput-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/UserInput-CustomInput_autogen/mocs_compilation.cpp	8e03c98b5e08dd83
+255	302	6964199839328131	UserInput-CustomInput_autogen/EWIEGA46WW/qrc_qml.cpp	cc87657826058c2f
+255	302	6964199839328131	C:/Users/hasnaine/Documents/QT Practice/UserInput & CustomInput/build-UserInput-CustomInput-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/UserInput-CustomInput_autogen/EWIEGA46WW/qrc_qml.cpp	cc87657826058c2f
+302	348	6964199839807519	CMakeFiles/UserInput-CustomInput.dir/UserInput-CustomInput_autogen/mocs_compilation.cpp.obj	70c1f99919eb8f8e
+307	354	6964199839864732	CMakeFiles/UserInput-CustomInput.dir/UserInput-CustomInput_autogen/EWIEGA46WW/qrc_qml.cpp.obj	25f59f5b89be1715
+305	1604	6964199852362608	CMakeFiles/UserInput-CustomInput.dir/main.cpp.obj	9febc92539a4be06
+1606	1754	6964199853828079	UserInput-CustomInput.exe	936e5fc4f6a5bbdd
